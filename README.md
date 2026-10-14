@@ -6,9 +6,9 @@ Warga Siaga merupakan aplikasi mobile berbasis Flutter yang dirancang untuk mend
 
 | Nama | NIM |
 |---|---|
-| [Nama 1] | [NIM] |
-| [Nama 2] | [NIM] |
-| [Nama 3] | [NIM] |
+| Nayla Octamandhani | [NIM] |
+| Sopi Amelia Salsabila | [NIM] |
+| Leyla Hasni AD | [NIM] |
 | [Nama 4] | [NIM] |
 
 ## Peran dan hak akses
