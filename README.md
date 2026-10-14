@@ -1,9 +1,6 @@
 # Warga Siaga
 
-Aplikasi mobile Flutter untuk peringatan dini, tanggap darurat, dan pelaporan warga berbasis lokasi.
-Dirancang untuk **seluruh wilayah Indonesia**: setiap pengguna terdaftar pada satu RT, dan data
-(laporan, pengumuman, titik evakuasi) mengikuti hierarki wilayah.
-Tugas Akhir mata kuliah Pemrograman Perangkat Bergerak.
+Warga Siaga merupakan aplikasi mobile berbasis Flutter yang dirancang untuk mendukung pelaporan warga, peringatan dini, dan koordinasi tanggap darurat berbasis lokasi pada tingkat wilayah. Aplikasi menggunakan konsep hierarki wilayah (Provinsi, Kota/Kabupaten, Kecamatan, Kelurahan/Desa, RW, dan RT) sehingga informasi seperti laporan kejadian, pengumuman, dan titik evakuasi dapat dikelola sesuai cakupan wilayah pengguna. Aplikasi ini dikembangkan sebagai prototype dalam tugas akhir mata kuliah Pemrograman Perangkat Bergerak.
 
 ## Anggota Kelompok
 
