@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+build/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+android/local.properties
+android/app/google-services.json
+.env
+
+# Node.js
+node_modules/
+proxy-server/node_modules/
